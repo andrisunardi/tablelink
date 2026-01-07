@@ -14,4 +14,8 @@
             </div>
         </div>
     </div>
+
+    @role('Admin')
+    Test
+    @endrole
 </x-app-layout>
