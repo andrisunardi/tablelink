@@ -16,6 +16,6 @@
     </div>
 
     @role('Admin')
-    Test
+    Charts
     @endrole
 </x-app-layout>
